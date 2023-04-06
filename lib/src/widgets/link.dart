@@ -20,7 +20,8 @@ const linkPrefixes = [
   'skype:',
   'sip:', // Lync
   'whatsapp:',
-  'http'
+  'http',
+  'singularityapp:'
 ];
 
 /// List of possible actions returned from [LinkActionPickerDelegate].
